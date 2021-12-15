@@ -1,0 +1,27 @@
+title,amount,status,comment
+,,failed,got an alert
+,2344,failed,got an alert
+,-234,failed,got an alert
+,234.5,failed,"no alert, not added in history, wrong balance"
+,-234.5,failed,"no alert, not added in history, wrong balance"
+titre,,failed,got an alert
+titre,234,success,"no alert,added in history , right balance",$234.00
+titre,-234,success,"no alert,added in history , right balance",$-234.00
+titre,234.5,failed,"no alert, not added in history, wrong balance"
+titre,-234.5,failed,"no alert, not added in history, wrong balance"
+12345,,failed,got an alert
+12345,2344,success,"no alert,added in history , right balance",$2344.00
+12345,-234,success,"no alert,added in history , right balance",$-234.00
+12345,234.5,failed,"no alert, not added in history, wrong balance"
+12345,-234.5,failed,"no alert, not added in history, wrong balance"
+a122b F-5&A2,,failed,got an alert
+a122b F-5&A2,200,success,"no alert,added in history , right balance",$200.00
+a122b F-5&A2,-200,success,"no alert,added in history , right balance",$-200.00
+a122b F-5&A2,20.5,failed,"no alert, not added in history, wrong balance"
+a122b F-5&A2,-20.5,failed,"no alert, not added in history, wrong balance"
+a122b,,failed,got an alert
+a122b,200,success,"no alert,added in history , right balance",$200.00
+a122b,-200,success,"no alert,added in history , right balance",$-200.00
+a122b,20.5,failed,"no alert, not added in history, wrong balance"
+a122b,-20.5,failed,"no alert, not added in history, wrong balance"
+titre,123eA,failed,"no alert, not added in history, wrong balance"

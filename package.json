@@ -1,0 +1,16 @@
+{
+  "name": "expense-tracker",
+  "version": "1.0.0",
+  "description": "Keep track of income and expenses. Add and remove items and save to local storage",
+  "main": "balance.test.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^27.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
